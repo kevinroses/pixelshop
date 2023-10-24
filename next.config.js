@@ -13,7 +13,7 @@ module.exports = withPWA({
   i18n,
   images: {
     domains: [
-      'localhost',
+      'https://app.camanchacapp.cl/public',
       '127.0.0.1:8000',
       'maps.googleapis.com',
       's3.amazonaws.com',
