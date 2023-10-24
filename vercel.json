@@ -1,6 +1,6 @@
 {
   "env": {
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://app.camanchacapp.cl/public",
     "NEXT_PUBLIC_WEBSITE_URL": "https://app.camanchacapp.cl",
       "NEXT_PUBLIC_ADMIN_URL": "https://admin.camanchacapp.cl",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
@@ -17,7 +17,7 @@
   },
   "build": {
     "env": {
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "",
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://app.camanchacapp.cl/public",
       "NEXT_PUBLIC_WEBSITE_URL": "https://app.camanchacapp.cl",
       "NEXT_PUBLIC_ADMIN_URL": "https://admin.camanchacapp.cl",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
